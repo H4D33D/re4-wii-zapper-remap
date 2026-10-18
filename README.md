@@ -81,7 +81,7 @@ With these controls:
 - **A** becomes your Knife Stance button.
   - (A is directly above B, creating a binary tree of options, and quicker switching speeds from the original scheme)
 
-As for the + and − buttons, that's just a quality-of-life change for me personally, since I use the inventory way more than commanding.
+As for the + and − buttons, that's just a quality-of-life change for me personally, since I use the inventory button more than the command button.
 
 **FYI:** QTEs use the actual Wii B and Z buttons now.
 
