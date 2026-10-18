@@ -1,4 +1,4 @@
-# Resident Evil 4: Wii Edition — Enhanced Zapper Controls
+# Resident Evil 4: Wii Edition — Remapped Zapper Controls
 
 <p align="center">
   <img src="images/misc/re4-kick.gif" width="480" height="268">
