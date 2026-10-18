@@ -22,7 +22,8 @@ From its gameplay and atmosphere to its influence on modern gaming, Resident Evi
 ## Why the Wii version?
 
 GameCube graphics, PlayStation 2 Additional Content (i.e., Separate Ways), GamePad OR Motion Controls.
-It is by far the best rounded release of the original game. 
+It is by far the best rounded release of the original game. Also, the Wii has very impressive Motion Controls, even by 2026 standards. 
+In addition, it's absolutely tragic that the Wii port of RE4 doesn't have a proper Zapper attachment control scheme. 
 
 ## Requirements
 
@@ -69,10 +70,10 @@ Other settings will depend on your hardware.
 
 With these controls:
 
-- **Z** becomes your Aim / Back button.
-- **B** becomes your Shoot / Confirm button.
-- **C** becomes your Sprint / Quick Turn button.
-- **A** becomes your Knife Stance button.
+- **Z** becomes your Aim / Back button. | (Like your readying from the hip)
+- **B** becomes your Shoot / Confirm button. | (An actual trigger to confirm the shot, and it's in front of the aiming button)
+- **C** becomes your Sprint / Quick Turn button. | (Next to Joystick and other Movement control schemes)
+- **A** becomes your Knife Stance button. | (A is directly above B, creating a binary tree of options, and quicker switching speeds from the original scheme)
 
 As for the + and − buttons, that's just a quality-of-life change for me personally, since I use the inventory way more than commanding.
 
