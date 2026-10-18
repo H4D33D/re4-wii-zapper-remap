@@ -1,4 +1,4 @@
-# Resident Evil 4: Wii Edition — Remapped Zapper Controls
+# Resident Evil 4: Wii Edition — REmapped Zapper Controls
 
 <p align="center">
   <img src="images/misc/re4-kick.gif" width="480" height="268">
@@ -9,15 +9,15 @@
 
 ## About This Project:
 
-This repository includes documentation and a custom Dolphin Wii Remote configuration file, specifically remapped for use with the Wii Zapper attachment to provide a more intuitive, comfortable, and immersive gameplay experience.
+This repository includes documentation and a custom Dolphin Wii Remote configuration file, specifically remapped for use with the Nintendo Wii Zapper attachment to provide a more intuitive, comfortable, and immersive gameplay experience.
 
-The most important change is **using B to shoot instead of A**, allowing you to use the Wii Remote's trigger as an actual trigger. Other buttons have also been remapped to make aiming, shooting, movement, and other actions feel more natural when using the Zapper.
+The most important change is **using B to shoot instead of A**, allowing you to use the Wii Remote's trigger as an actual trigger. Other buttons have also been remapped to make gunplay, movement, and other actions feel more natural when using the Zapper.
 
-This guide is for those who don't like the original Wii controls, or anyone interested in playing RE4 Wii Edition with a Wii Zapper Attachment.
+This guide is for those who don't like the original Wii controls, or anyone interested in playing RE4 Wii Edition with a Zapper Attachment.
 
 I have also uploaded my config file, so you can simply drop it into your directory. [config/RE4.ini](config/RE4.ini)
 
-(Be sure to edit the file for your mote and save).
+(Be sure to edit the file for your remote and save).
 <p align="center">
   <img src="images/misc/wii-zapper.webp" height="268">
 </p>
@@ -34,10 +34,11 @@ and you also need a...
   - I recommend OEM with MotionPlus, just for future peace of mind.
 - [x] **OEM Wii Nunchuk**
 - [x] **Wii Zapper Attachment**
-  - Non-licensed versions work just the same.
+  - [Non-licensed versions](https://www.amazon.com/dp/B00FJ2KLD0) work just the same.
 - [x] **USB Sensor Bar** (A MUST)
-  - I recommend a USB sensor bar with built-in Bluetooth capabilities, especially if you don't have a Bluetooth receiver.
-  - Although I have a TP-Link receiver, I did experience connection issues when connecting multiple controllers.
+  - [MAYFLASH](https://www.amazon.com/dp/B00HZWEB74) sells a dedicated Dolphin Wii Sensor bar w/Bluetooth capabilities. 
+  - Otherwise, all you need is a [USB sensor bar](https://www.amazon.com/dp/B09X9SRW72) and Bluetooth functionality; however, that may be.
+  - Additionally, you can also just use 2 candles. :)
 - [x] **Appropriate hardware and software** (PC specs, Dolphin, your own game file, etc.)
 
 Once these requirements are met, set up your Dolphin Wii-Mote settings. **This part is important.**
@@ -117,7 +118,7 @@ Lastly, it's absolutely tragic that the Wii port of RE4 doesn't have a proper Za
 
 ## What is Resident Evil 4?
 
-Developed and published by Capcom, **Resident Evil 4 (2005)** is a survival-horror action game and one of my personal favorite video games of all time.
+Developed and published by Capcom, **Resident Evil 4 (2005)** (a.k.a. Biohazard 4) is a survival-horror action game and one of my personal favorite video games of all time.
 
 RE4 helped revolutionize interactive entertainment through its innovative over-the-shoulder camera and its horrifying stop-to-shoot gunplay, establishing a standard that would influence countless games for years to come.
 
