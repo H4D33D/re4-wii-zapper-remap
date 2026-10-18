@@ -2,7 +2,6 @@
 
 ![Resident Evil 4 Gameplay Gif](images/misc/re4-kick.gif)
 
-# Resident Evil 4: Wii Edition — My Dolphin Setup
 ## Why This Setup?
 
 I tried RE4 Wii Edition, and hated the controls.
