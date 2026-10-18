@@ -26,6 +26,8 @@ It is by far the best rounded release of the original game. Also, the Wii has ve
 In addition, it's absolutely tragic that the Wii port of RE4 doesn't have a proper Zapper attachment control scheme. 
 
 ---
+# SETUP & CONFIGURATION
+---
 
 ## Requirements
 
@@ -87,6 +89,8 @@ As for the + and − buttons, that's just a quality-of-life change for me person
 
 I also like having my sensor bar at the bottom (configured in Dolphin settings), since it's more comfortable for longer sessions.
 
+---
+#PERSONAL NOTES
 ---
 
 ## Why This Setup?
