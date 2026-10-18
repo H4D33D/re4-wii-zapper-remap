@@ -75,7 +75,8 @@ With these controls:
 - **Z** becomes your Aim / Back button. 
 - **B** becomes your Shoot / Confirm button. 
 - **C** becomes your Sprint / Quick Turn button. 
-- **A** becomes your Knife Stance button. 
+- **A** becomes your Knife Stance button.
+
 
 - (Like your readying from the hip)
 - (An actual trigger to confirm the shot, and it's in front of the aiming button)
