@@ -1,6 +1,9 @@
 # Resident Evil 4: Wii Edition — My Dolphin Setup
 
-![Resident Evil 4 Gameplay Gif](images/misc/re4-kick.gif)
+<p align="center">
+  <img src="images/misc/re4-kick.gif" width="480" height="268">
+  <img src="images/misc/wii-logo.gif" height="268">
+</p>
 
 ## Why This Setup?
 
