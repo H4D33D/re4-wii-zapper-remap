@@ -21,7 +21,7 @@ From its gameplay and atmosphere to its influence on modern gaming, Resident Evi
 
 ## Why the Wii version?
 
-GameCube graphics, PS2 Additional Content (i.e., Separate Ways), GamePad OR Motion Controls.
+GameCube graphics, PlayStation 2 Additional Content (i.e., Separate Ways), GamePad OR Motion Controls.
 It is by far the best rounded release of the original game. 
 
 ## Requirements
