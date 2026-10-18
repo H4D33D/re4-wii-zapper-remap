@@ -27,7 +27,6 @@ In addition, it's absolutely tragic that the Wii port of RE4 doesn't have a prop
 
 ---
 # SETUP & CONFIGURATION
----
 
 ## Requirements
 
@@ -91,7 +90,6 @@ I also like having my sensor bar at the bottom (configured in Dolphin settings),
 
 ---
 #PERSONAL NOTES
----
 
 ## Why This Setup?
 
