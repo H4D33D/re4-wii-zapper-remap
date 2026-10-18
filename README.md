@@ -25,6 +25,12 @@ GameCube graphics, PlayStation 2 Additional Content (i.e., Separate Ways), GameP
 It is by far the best rounded release of the original game. Also, the Wii has very impressive Motion Controls, even by 2026 standards. 
 In addition, it's absolutely tragic that the Wii port of RE4 doesn't have a proper Zapper attachment control scheme. 
 
+<br>
+
+---
+
+<br>
+
 ## Requirements
 
 You must use **Dolphin Emulator**.
@@ -80,6 +86,12 @@ As for the + and − buttons, that's just a quality-of-life change for me person
 **FYI:** QTEs use the actual Wii B and Z buttons now.
 
 I also like having my sensor bar at the bottom (configured in Dolphin settings), since it's more comfortable for longer sessions.
+
+<br>
+
+---
+
+<br>
 
 ## Why This Setup?
 
