@@ -97,9 +97,9 @@ The Wii version uses **A to shoot and B to aim**, which I found absolutely horri
 
 Using the Zapper actually made the controls more uncomfortable than playing without it, since I had to position my finger over the barrel of the Zapper just to reach the A button to shoot. The button layout felt poorly thought out and not at all worthy of a game like RE4.
 
-What's especially disappointing is that Resident Evil 4: Wii Edition was released on **June 19, 2007**, while the Wii Zapper wasn't released until **November 19, 2007**, five months later.
+Additionally, I would note that Resident Evil 4: Wii Edition was released on **June 19, 2007**, while the Wii Zapper wasn't released until **November 19, 2007**, five months later.
 
-This feels like a missed opportunity. With RE4 Wii Edition releasing before the Zapper, the controls weren't designed with the attachment in mind, which is a shame considering how well the two could have worked together.
+This feels like a missed opportunity. With RE4 Wii Edition releasing before the Zapper, the controls weren't designed with the attachment in mind, which is a shame considering how well the two couldv'e / already work together so well.
 
 I wanted to play the Wii Edition because of its motion controls, but I also wanted to use the Zapper in a way that actually felt comfortable, intuitive, and immersive.
 
