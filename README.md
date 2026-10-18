@@ -89,7 +89,7 @@ As for the + and − buttons, that's just a quality-of-life change for me person
 I also like having my sensor bar at the bottom (configured in Dolphin settings), since it's more comfortable for longer sessions.
 
 ---
-#PERSONAL NOTES
+# PERSONAL NOTES
 
 ## Why This Setup?
 
