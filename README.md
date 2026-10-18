@@ -72,10 +72,15 @@ Other settings will depend on your hardware.
 
 With these controls:
 
-- **Z** becomes your Aim / Back button. | (Like your readying from the hip)
-- **B** becomes your Shoot / Confirm button. | (An actual trigger to confirm the shot, and it's in front of the aiming button)
-- **C** becomes your Sprint / Quick Turn button. | (Next to Joystick and other Movement control schemes)
-- **A** becomes your Knife Stance button. | (A is directly above B, creating a binary tree of options, and quicker switching speeds from the original scheme)
+- **Z** becomes your Aim / Back button. 
+- **B** becomes your Shoot / Confirm button. 
+- **C** becomes your Sprint / Quick Turn button. 
+- **A** becomes your Knife Stance button. 
+
+- (Like your readying from the hip)
+- (An actual trigger to confirm the shot, and it's in front of the aiming button)
+- (Next to Joystick and other Movement control schemes)
+- (A is directly above B, creating a binary tree of options, and quicker switching speeds from the original scheme)
 
 As for the + and − buttons, that's just a quality-of-life change for me personally, since I use the inventory way more than commanding.
 
