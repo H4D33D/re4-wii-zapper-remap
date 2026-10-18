@@ -45,7 +45,7 @@ Once these requirements are met, set up your Dolphin settings. **This part is im
 
 ### Controller Settings
 
-*Insert Dolphin controller settings screenshot here.*
+Image 1
 
 ### Wii Remote Button Remapping
 
