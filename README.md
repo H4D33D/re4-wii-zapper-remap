@@ -41,7 +41,7 @@ What you'll need:
 
 Once these requirements are met, set up your Dolphin settings. **This part is important.**
 
-## Dolphin Controlelr Configuration
+## Dolphin Configuration
 
 ### Controller Settings
 
