@@ -22,7 +22,7 @@ From its gameplay and atmosphere to its influence on modern gaming, Resident Evi
 ## Why the Wii version?
 
 GameCube graphics, PlayStation 2 Additional Content (i.e., Separate Ways), GamePad OR Motion Controls.
-It is by far the best rounded release of the original game. Also, the Wii has very impressive Motion Controls, even by 2026 standards. 
+It is by far the best rounded release of the original game. The Wii also has very impressive Motion Controls, even by 2026 standards. 
 In addition, it's absolutely tragic that the Wii port of RE4 doesn't have a proper Zapper attachment control scheme. 
 
 # SETUP & CONFIGURATION
